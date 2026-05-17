@@ -1,0 +1,4 @@
+User Question: trivandrum
+----------------------------------------
+Bot Answer:
+The current temperature in Trivandrum is 25.4°C with a light wind speed of 5.9 km/h. Since it is not currently raining, you **do not need an umbrella**.
